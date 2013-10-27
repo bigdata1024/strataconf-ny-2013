@@ -2,7 +2,9 @@
 
 This git repository will contain resources that we will be using during the tutorial Massive Data Aggregation, Monitoring, Processing and Visualization with Apache Flume, ElasticSearch and D3.js
 
-The list of software we will be using can be found here
+http://strataconf.com/stratany2013/public/schedule/detail/30928
+
+The list of software we will be using during this tutorial can be found here:
 
 https://github.com/israelekpo/strataconf-ny-2013/blob/master/pre-requisite-software.md
 
