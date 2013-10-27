@@ -1,4 +1,3 @@
-
 ### Pre-Requisite Software for Tutorial ###
 
 * Text Editor
@@ -25,8 +24,8 @@ Java 7 Update 40 has some issues with Lucene and ElasticSearch. The recommended 
 http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html#jdk-7u25-oth-JPR
 
 #### Apache Tomcat Versions 6.0.37 and 7.0.47
-We will need to download and set up Tomcat versions 6.0.37 and 7.0.47
 http://tomcat.apache.org/
+We will need to download and set up Tomcat versions 6.0.37 and 7.0.47
 
 #### Apache Maven Version 3.0.5 ####
 http://maven.apache.org/download.cgi
