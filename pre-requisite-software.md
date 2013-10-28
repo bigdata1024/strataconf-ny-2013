@@ -39,6 +39,8 @@ http://www.elasticsearch.org/download/
 #### Logstash 1.2.2 ####
 http://logstash.net/
 
+#### Ruby 1.8 or later ####
+
 #### Kibana 3.0, Milestone 4 ####
 http://www.elasticsearch.org/overview/kibana/installation/
 
