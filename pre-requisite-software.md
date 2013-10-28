@@ -8,6 +8,7 @@
 * Install Git Version 1.8.1 or later
 * Download Apache Flume 1.4.0
 * Download Logstash 1.2.2
+* Install Ruby 1.8 or later
 * Download Kibana 3.0, milestone 4
 * Install ElasticSearch 0.90.5
 * Install Nginx 1.4.3
