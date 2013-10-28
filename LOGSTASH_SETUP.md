@@ -57,3 +57,18 @@ output {
 }
 
 ```
+
+
+
+### Start Up the Logstash Agent ###
+
+This will tail all the tomcat log files specific in the logstash configuration file
+
+
+```
+
+cd /usr/local/logstash
+
+java -jar logstash-1.2.2-flatjar.jar agent -f conf/strata.demo.conf -l logs/logstash.log
+
+```
