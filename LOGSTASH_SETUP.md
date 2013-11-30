@@ -1,5 +1,7 @@
 ### LogStash Setup ####
 
+Run the following command from your Console or Terminal
+
 Create the following folders
 
 ```shell
